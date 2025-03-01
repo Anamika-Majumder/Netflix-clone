@@ -65,3 +65,6 @@ cursor: pointer;
 .navbar-profile:hover .dropdwon{
     display: block;
 }
+.nav-dark{
+    background: #141414;
+}
